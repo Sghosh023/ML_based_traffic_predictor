@@ -5,3 +5,4 @@ depending upon various parameters such as Holiday,temperature, Rainfall/Weather 
 please check the app [here](https://metrointerstatetrafficpredict.df.r.appspot.com/)
 
 Also for any assistance on how to use the application or on how to build the same type of application please find the 'Technical Specification doc' available in this repository.
+Included the steps of dockerizing the application in the technical specification doc.
